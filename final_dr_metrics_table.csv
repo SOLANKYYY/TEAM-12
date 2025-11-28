@@ -1,0 +1,6 @@
+Method,Dimension,Macro_F1_Score,Variance_Explained (LDA),Reconstruction_Error (AE)
+Original Embedding,384,0.9984803740507054,1.0,0.0
+Autoencoder (Non-Linear),50,0.9897069022977272,N/A,0.027954185381531715
+LDA (Linear),2,0.955801768366304,0.9221093,N/A
+Autoencoder (Non-Linear),10,0.7691360006679628,N/A,0.047512710094451904
+Autoencoder (Non-Linear),2,0.5135801654441756,N/A,0.14984558522701263
